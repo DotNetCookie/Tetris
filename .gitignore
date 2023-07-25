@@ -1,0 +1,7 @@
+__pycache__
+._tetris.py
+._tetris.spec
+.idea
+build
+**/tetris_save
+venv
